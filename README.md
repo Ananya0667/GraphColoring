@@ -16,10 +16,12 @@ To deploy this project,
 
    
 a. for Windows:
+
     g++ software_final.cpp -o graph_coloring
 
     
 b. For MAC: 
+
     clang++ --std=c++17 software_final.cpp -o graph_coloring
 
     
