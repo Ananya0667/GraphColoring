@@ -13,7 +13,11 @@ The Cricket Tournament problem can be transformed into a graph coloring problem 
 
 To deploy this project,
 1. Compile the program:
-    g++ main.cpp -o graph_coloring
+a. for Windows:
+    g++ software_final.cpp -o graph_coloring
+    
+b. For MAC: 
+    clang++ --std=c++17 software_final.cpp -o graph_coloring
 2. Run the program:
     ./graph_coloring
 
